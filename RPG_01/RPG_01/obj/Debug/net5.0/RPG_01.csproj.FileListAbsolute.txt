@@ -1,0 +1,16 @@
+C:\Users\kamil\OneDrive\Pulpit\repos_old\RPG_01\RPG_01\obj\Debug\net5.0\RPG_01.csproj.AssemblyReference.cache
+C:\Users\kamil\OneDrive\Pulpit\repos_old\RPG_01\RPG_01\obj\Debug\net5.0\RPG_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\OneDrive\Pulpit\repos_old\RPG_01\RPG_01\obj\Debug\net5.0\RPG_01.AssemblyInfoInputs.cache
+C:\Users\kamil\OneDrive\Pulpit\repos_old\RPG_01\RPG_01\obj\Debug\net5.0\RPG_01.AssemblyInfo.cs
+C:\Users\kamil\OneDrive\Pulpit\repos_old\RPG_01\RPG_01\obj\Debug\net5.0\RPG_01.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Pulpit\repos_old\RPG_01\RPG_01\bin\Debug\net5.0\RPG_01.exe
+C:\Users\kamil\OneDrive\Pulpit\repos_old\RPG_01\RPG_01\bin\Debug\net5.0\RPG_01.deps.json
+C:\Users\kamil\OneDrive\Pulpit\repos_old\RPG_01\RPG_01\bin\Debug\net5.0\RPG_01.runtimeconfig.json
+C:\Users\kamil\OneDrive\Pulpit\repos_old\RPG_01\RPG_01\bin\Debug\net5.0\RPG_01.runtimeconfig.dev.json
+C:\Users\kamil\OneDrive\Pulpit\repos_old\RPG_01\RPG_01\bin\Debug\net5.0\RPG_01.dll
+C:\Users\kamil\OneDrive\Pulpit\repos_old\RPG_01\RPG_01\bin\Debug\net5.0\ref\RPG_01.dll
+C:\Users\kamil\OneDrive\Pulpit\repos_old\RPG_01\RPG_01\bin\Debug\net5.0\RPG_01.pdb
+C:\Users\kamil\OneDrive\Pulpit\repos_old\RPG_01\RPG_01\obj\Debug\net5.0\RPG_01.dll
+C:\Users\kamil\OneDrive\Pulpit\repos_old\RPG_01\RPG_01\obj\Debug\net5.0\ref\RPG_01.dll
+C:\Users\kamil\OneDrive\Pulpit\repos_old\RPG_01\RPG_01\obj\Debug\net5.0\RPG_01.pdb
+C:\Users\kamil\OneDrive\Pulpit\repos_old\RPG_01\RPG_01\obj\Debug\net5.0\RPG_01.genruntimeconfig.cache
