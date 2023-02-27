@@ -1,5 +1,5 @@
 # Role-Playing-Game-
-Example how the references to API in application were made:
+<p>Example how the references to API in application were made:</p>
 ![Image](https://user-images.githubusercontent.com/98419600/221705486-af5a470e-2b60-4495-81d9-ec388fce01b7.png)
 The Enum that defines avaiable actions:
 ![Image](https://user-images.githubusercontent.com/98419600/221705485-f4d02263-90e2-4a32-a89e-8330645549c2.jpg)
